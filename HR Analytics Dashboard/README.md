@@ -79,7 +79,7 @@ By leveraging these insights, organizations can enhance workforce planning and b
 ---
 
 ## Screenshots
-![Dashboard Screenshot](https://github.com/arorni/PowerBI-Projects/tree/main/HR%20Analytics%20Dashboard)
+![Dashboard Screenshot](https://github.com/arorni/PowerBI-Projects/tree/main/HR%20Analytics%20Dashboard/HR_Analytics_Dashboard.jpg)
 
 ---
 
