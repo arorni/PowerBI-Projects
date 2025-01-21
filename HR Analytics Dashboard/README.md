@@ -78,10 +78,9 @@ By leveraging these insights, organizations can enhance workforce planning and b
 
 ---
 
-### Report Snapshots
+## Screenshots
 
-**Dashboard Overview**  
-![Dashboard Snapshot](#)  
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/arorni/PowerBI-Projects))
 
 ---
 
